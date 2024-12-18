@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "target": "es2020"
+  }
+}
